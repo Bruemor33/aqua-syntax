@@ -1,13 +1,13 @@
 {
-  "name": "pumpkin-syntax",
+  "name": "aqua-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
-  "description": "An autumn-flavored syntax theme for Atom",
+  "version": "0.0.1",
+  "description": "A blue flavored theme based off the pumpkin-syntax",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/nkpfstr/pumpkin-syntax",
+  "repository": "https://github.com/Bruemor33/aqua-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
